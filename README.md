@@ -48,6 +48,7 @@ I am a Senior Data Engineer at **NTT DATA** with around five years of experience
 
 ### Additional education
 
+- **MBA in Data Science & Analytics for Operations** — POLI USP PRO, University of São Paulo *(in progress, expected 2027)*
 - **Data Engineering with AWS Nanodegree** — Udacity
 - **B.Sc. in Engineering Physics** — Federal University of São Carlos (UFSCar), 2022
 
